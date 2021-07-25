@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gretzky47
+- 👋 Hi, I’m @Murtaza
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Devops Engineer.
 - 💞️ I’m looking to collaborate on Java
