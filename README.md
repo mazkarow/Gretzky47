@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murtaza
-- 👀 I’m interested in Gaming
+- 👀 I’m interested in Web3, Gaming & DAO.
 - 🌱 I’m currently learning Devops Engineer.
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me makanor@gmail.com
