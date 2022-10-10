@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murtaza
-- 👀 I’m interested in Web3, Gaming & DAO.
+- 👀 I’m interested in Cypress.
 - 🌱 I’m currently learning Automation Testing.
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me makanor@gmail.com
